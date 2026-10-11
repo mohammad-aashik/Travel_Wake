@@ -1,0 +1,6 @@
+{
+  "name": "TravelWake",
+  "description": "Global public transport sleep and dynamic arrival wake-up assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
